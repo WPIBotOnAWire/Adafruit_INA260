@@ -34,7 +34,6 @@
 #include "Arduino.h"
 #include <Wire.h>
 
-
 #include "Adafruit_INA260.h"
 
 /*!
