@@ -14,6 +14,8 @@
  *	BSD license (see license.txt)
  */
 
+// TODO: Get rid of the silly I2C abstraction...
+
 #ifndef _ADAFRUIT_INA260_H
 #define _ADAFRUIT_INA260_H
 
